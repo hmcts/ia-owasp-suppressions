@@ -7,5 +7,13 @@
         <cve>CVE-2025-15104</cve>
         <cve>CVE-2025-68161</cve>
         <cve>CVE-2025-46392</cve>
+        <cve>CVE-2024-47535</cve>
+        <cve>CVE-2025-67735</cve>
+        <cve>CVE-2025-24970</cve>
+        <cve>CVE-2025-58057</cve>
+        <cve>CVE-2025-55163</cve>
+        <cve>CVE-2025-58056</cve>
+        <cve>CVE-2025-25193</cve>
+        <cve>CVE-2024-29025</cve>
     </suppress>
 </suppressions>
