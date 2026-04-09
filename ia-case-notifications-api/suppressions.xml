@@ -24,5 +24,7 @@
         <cve>CVE-2025-66614</cve>
         <cve>CVE-2026-24734</cve>
         <cve>CVE-2026-24733</cve>
+        <cve>CVE-2026-33870</cve>
+        <cve>CVE-2026-33871</cve>
     </suppress>
 </suppressions>
